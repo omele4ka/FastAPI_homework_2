@@ -105,3 +105,5 @@ venv.bak/
 
 .vscode/
 settings.json
+
+tasks_db.db
